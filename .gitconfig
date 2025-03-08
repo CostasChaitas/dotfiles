@@ -1,0 +1,7 @@
+[includeIf "gitdir:~/Desktop/data/Verve/"]
+    path = ~/.gitconfig-verve
+[includeIf "gitdir:~/Desktop/data/personal/"]
+    path = ~/.gitconfig-xaitakon
+
+[core]
+        autocrlf = input
